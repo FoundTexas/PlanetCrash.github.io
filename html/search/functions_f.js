@@ -24,10 +24,8 @@ var searchData=
   ['setvolume_21',['SetVolume',['../class_pause_menu.html#ab380174e3dd6b8112df71a682321e50a',1,'PauseMenu.SetVolume()'],['../class_settings_menu.html#a18d841ef0a70fe51fdc9876392df55e3',1,'SettingsMenu.SetVolume()']]],
   ['shiftcolor_22',['ShiftColor',['../class_flexible_color_picker.html#ad4e775648609edc52e8e4e9cac3c4320',1,'FlexibleColorPicker']]],
   ['shifthue_23',['ShiftHue',['../class_flexible_color_picker.html#a12189e194ce073db5b7e6a4b5939dbe6',1,'FlexibleColorPicker']]],
-  ['shoot_24',['Shoot',['../class_weapon_system_1_1_weapon.html#a9c6ee745d7c2761d053b09bd0b619c93',1,'WeaponSystem.Weapon.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_grappling_hook.html#a50e3aa1be962cd0680a106776bfb49db',1,'WeaponSystem.Weapons.GrapplingHook.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_gun.html#a5b709ee394a4544a74a89143c7b00d5a',1,'WeaponSystem.Weapons.Gun.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_sound_shotgun.html#acce1494b8d0faabbfbcb9aaa09fe1bc4',1,'WeaponSystem.Weapons.SoundShotgun.Shoot()']]],
+  ['shoot_24',['Shoot',['../class_weapon_system_1_1_weapon.html#a9c6ee745d7c2761d053b09bd0b619c93',1,'WeaponSystem.Weapon.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_grappling_hook.html#a50e3aa1be962cd0680a106776bfb49db',1,'WeaponSystem.Weapons.GrapplingHook.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_sound_shotgun.html#acce1494b8d0faabbfbcb9aaa09fe1bc4',1,'WeaponSystem.Weapons.SoundShotgun.Shoot()']]],
   ['spawn_25',['Spawn',['../class_dropper.html#a02c09e3e9fa18cf9f899aa382844b185',1,'Dropper']]],
-  ['spawnprojectile_26',['SpawnProjectile',['../class_weapon_system_1_1_weapon.html#a622ae8ead4d46df60af5454a6fcc2119',1,'WeaponSystem::Weapon']]],
-  ['spawntrail_27',['SpawnTrail',['../class_weapon_system_1_1_weapon.html#a970a7018e0d660822212565fc9dcfc46',1,'WeaponSystem::Weapon']]],
-  ['startbakingsurfaces_28',['StartBakingSurfaces',['../class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a9eb384b5a70428c55a15dae6a4dd48c7',1,'UnityEditor::AI::NavMeshAssetManager']]],
-  ['stepsound_29',['StepSound',['../class_audio_and_video_manager.html#aac64769188cce0ee5f404b36d78a6830',1,'AudioAndVideoManager']]]
+  ['startbakingsurfaces_26',['StartBakingSurfaces',['../class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a9eb384b5a70428c55a15dae6a4dd48c7',1,'UnityEditor::AI::NavMeshAssetManager']]],
+  ['stepsound_27',['StepSound',['../class_audio_and_video_manager.html#aac64769188cce0ee5f404b36d78a6830',1,'AudioAndVideoManager']]]
 ];

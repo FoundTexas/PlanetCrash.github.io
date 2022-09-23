@@ -25,7 +25,6 @@ var NAVTREEINDEX0 =
 "_flexible_color_picker_8cs.html":[2,0,0,0,1,2],
 "_follow_player_8cs.html":[2,0,0,6],
 "_grappling_hook_8cs.html":[2,0,0,3,10,0,0],
-"_gun_8cs.html":[2,0,0,3,10,0,1],
 "_health_bar_8cs.html":[2,0,0,7],
 "_hit_stop_8cs.html":[2,0,0,3,4,2],
 "_i_damage_8cs.html":[2,0,0,3,3,0],
@@ -59,7 +58,7 @@ var NAVTREEINDEX0 =
 "_scene_loader_8cs.html":[2,0,0,3,8,1],
 "_scene_management_8cs.html":[2,0,0,3,8,2],
 "_settings_menu_8cs.html":[2,0,0,3,9,4],
-"_sound_shotgun_8cs.html":[2,0,0,3,10,0,2],
+"_sound_shotgun_8cs.html":[2,0,0,3,10,0,1],
 "_step_sender_8cs.html":[2,0,0,9],
 "_third_person_movement_8cs.html":[2,0,0,3,5,5],
 "_trigger_event_on_collision_8cs.html":[2,0,0,3,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "class_health_bar.html#a76afbe36aaf7c7a21ef5dbf1272b98b3":[1,0,28,2],
 "class_hit_stop.html":[1,0,29],
 "class_hit_stop.html#a22debbc581ed99f1763e8c531af40845":[1,0,29,1],
-"class_hit_stop.html#a52c44b2d78fcb0fba5113ff702f2f33b":[1,0,29,5]
+"class_hit_stop.html#a52c44b2d78fcb0fba5113ff702f2f33b":[1,0,29,5],
+"class_hit_stop.html#a532aefe98e7ee0231380bb4d5b462918":[1,0,29,4]
 };

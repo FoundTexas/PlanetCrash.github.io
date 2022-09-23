@@ -70,7 +70,6 @@ var hierarchy =
       [ "WeaponSystem.Reticle", "class_weapon_system_1_1_reticle.html", null ],
       [ "WeaponSystem.Weapon", "class_weapon_system_1_1_weapon.html", [
         [ "WeaponSystem.Weapons.GrapplingHook", "class_weapon_system_1_1_weapons_1_1_grappling_hook.html", null ],
-        [ "WeaponSystem.Weapons.Gun", "class_weapon_system_1_1_weapons_1_1_gun.html", null ],
         [ "WeaponSystem.Weapons.SoundShotgun", "class_weapon_system_1_1_weapons_1_1_sound_shotgun.html", null ]
       ] ],
       [ "WeaponSystem.WeaponManager", "class_weapon_system_1_1_weapon_manager.html", null ],
