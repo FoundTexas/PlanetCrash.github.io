@@ -7,7 +7,9 @@ var hierarchy =
       [ "PlayerHealth", "class_player_health.html", null ],
       [ "Props.Box", "class_props_1_1_box.html", null ]
     ] ],
-    [ "Interfaces.ISave", "interface_interfaces_1_1_i_save.html", null ],
+    [ "Interfaces.ISave", "interface_interfaces_1_1_i_save.html", [
+      [ "SceneManagement", "class_scene_management.html", null ]
+    ] ],
     [ "jsonbools", "classjsonbools.html", null ],
     [ "MonoBehaviour", null, [
       [ "AudioAndVideoManager", "class_audio_and_video_manager.html", null ],
@@ -19,6 +21,9 @@ var hierarchy =
       [ "Collectables.Dropper", "class_collectables_1_1_dropper.html", null ],
       [ "Collectables.WeaponUnlocker", "class_collectables_1_1_weapon_unlocker.html", null ],
       [ "Enemy", "class_enemy.html", null ],
+      [ "GameManagement.SceneLoader", "class_game_management_1_1_scene_loader.html", null ],
+      [ "GameManagement.TriggerEventOnCollision", "class_game_management_1_1_trigger_event_on_collision.html", null ],
+      [ "GameManagement.TriggerEventOnDead", "class_game_management_1_1_trigger_event_on_dead.html", null ],
       [ "GameManager", "class_game_manager.html", null ],
       [ "HitStop", "class_hit_stop.html", null ],
       [ "LookAtCamera", "class_look_at_camera.html", null ],
@@ -29,11 +34,8 @@ var hierarchy =
       [ "PlayerMovement3D", "class_player_movement3_d.html", null ],
       [ "Props.Box", "class_props_1_1_box.html", null ],
       [ "Props.MovingPlatform", "class_props_1_1_moving_platform.html", null ],
-      [ "SceneLoader", "class_scene_loader.html", null ],
       [ "SceneManagement", "class_scene_management.html", null ],
       [ "ThirdPersonMovement", "class_third_person_movement.html", null ],
-      [ "TriggerEventOnCollision", "class_trigger_event_on_collision.html", null ],
-      [ "TriggerEventOnDead", "class_trigger_event_on_dead.html", null ],
       [ "UI.ColorPickerManager", "class_u_i_1_1_color_picker_manager.html", null ],
       [ "UI.MiniMap", "class_u_i_1_1_mini_map.html", null ],
       [ "UI.SettingsMenu", "class_u_i_1_1_settings_menu.html", [

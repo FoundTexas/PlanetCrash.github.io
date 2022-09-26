@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_area_weapon_8cs.html",
-"class_u_i_1_1_color_picker_manager.html#aa84a2a86783084a77ebb3233ff139cd6"
+"class_third_person_movement.html#a5c3284c1e049e034238d5a9a99ba1b8d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

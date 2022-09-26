@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['props_0',['Props',['../namespace_props.html',1,'']]]
+  ['optimization_5fmodule_0',['Optimization_Module',['../namespace_optimization___module.html',1,'']]]
 ];

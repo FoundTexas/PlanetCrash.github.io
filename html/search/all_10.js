@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['saved_0',['Saved',['../interface_interfaces_1_1_i_save.html#aeda6654b7b06868b02cce562592da712',1,'Interfaces::ISave']]],
+  ['saved_0',['Saved',['../class_scene_management.html#a773372732c6eafaae522610710ac0538',1,'SceneManagement.Saved()'],['../interface_interfaces_1_1_i_save.html#aeda6654b7b06868b02cce562592da712',1,'Interfaces.ISave.Saved()']]],
   ['savevalue_1',['SaveValue',['../class_scene_management.html#a815906f1fdf46aeb058026acb067f21e',1,'SceneManagement']]],
-  ['sceneloader_2',['SceneLoader',['../class_scene_loader.html',1,'']]],
+  ['sceneloader_2',['SceneLoader',['../class_game_management_1_1_scene_loader.html',1,'GameManagement']]],
   ['sceneloader_2ecs_3',['SceneLoader.cs',['../_scene_loader_8cs.html',1,'']]],
   ['scenemanagement_4',['SceneManagement',['../class_scene_management.html',1,'']]],
   ['scenemanagement_2ecs_5',['SceneManagement.cs',['../_scene_management_8cs.html',1,'']]],
@@ -19,7 +19,7 @@ var searchData=
   ['settingsmenu_16',['settingsMenu',['../class_u_i_1_1_pause_menu.html#ae7a501ce9a03cb8701ca40fbeb6aba93',1,'UI::PauseMenu']]],
   ['settingsmenu_17',['SettingsMenu',['../class_u_i_1_1_settings_menu.html',1,'UI']]],
   ['settingsmenu_2ecs_18',['SettingsMenu.cs',['../_settings_menu_8cs.html',1,'']]],
-  ['settrigger_19',['SetTrigger',['../class_trigger_event_on_collision.html#a1574f6b0e8adc6b23441f953d06e4c02',1,'TriggerEventOnCollision.SetTrigger()'],['../class_trigger_event_on_dead.html#a3d709f3bf7dfc6da02b381849020c779',1,'TriggerEventOnDead.SetTrigger()']]],
+  ['settrigger_19',['SetTrigger',['../class_game_management_1_1_trigger_event_on_collision.html#a6e83f77e565ec8b0de89b67619b877c5',1,'GameManagement.TriggerEventOnCollision.SetTrigger()'],['../class_game_management_1_1_trigger_event_on_dead.html#a8aed820c79c77e00c0fb060190520624',1,'GameManagement.TriggerEventOnDead.SetTrigger()']]],
   ['setvolume_20',['SetVolume',['../class_u_i_1_1_settings_menu.html#ab12d5be9a753b1eaecfcf0d1b2fed537',1,'UI::SettingsMenu']]],
   ['shakeduration_21',['shakeDuration',['../class_hit_stop.html#a6c7ae49cdb97134e7131711a168d124b',1,'HitStop']]],
   ['shakemagnitude_22',['shakeMagnitude',['../class_hit_stop.html#aca95aded6ee18e82ac01ee5951f91481',1,'HitStop']]],

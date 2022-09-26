@@ -6,11 +6,11 @@ var searchData=
   ['timepatrolling_3',['timePatrolling',['../class_enemy.html#a477bc5ae2f89e74c6b3dd063827b8169',1,'Enemy']]],
   ['timer_4',['timer',['../class_collectables_1_1_planet_fragment.html#a20e1aff4ffa7b0de5c3f362d33f38387',1,'Collectables::PlanetFragment']]],
   ['toggleweapon_5',['ToggleWeapon',['../class_weapon_system_1_1_weapon_manager.html#a51a7865a1890361c0d81cab10e0565ec',1,'WeaponSystem::WeaponManager']]],
-  ['tojson_6',['ToJson',['../interface_interfaces_1_1_i_save.html#a661b185f69fc7713b51603060800ab59',1,'Interfaces::ISave']]],
-  ['triggerevent_7',['TriggerEvent',['../class_trigger_event_on_collision.html#a1976555a586c8dd91202a97ea99f0251',1,'TriggerEventOnCollision.TriggerEvent()'],['../class_trigger_event_on_dead.html#a0dfcecde0d7b2171689a1a8ec0f99dff',1,'TriggerEventOnDead.TriggerEvent()']]],
-  ['triggereventoncollision_8',['TriggerEventOnCollision',['../class_trigger_event_on_collision.html',1,'']]],
+  ['tojson_6',['ToJson',['../class_scene_management.html#aea3e3f61498c488375db468d71bdec39',1,'SceneManagement.ToJson()'],['../interface_interfaces_1_1_i_save.html#a661b185f69fc7713b51603060800ab59',1,'Interfaces.ISave.ToJson()']]],
+  ['triggerevent_7',['TriggerEvent',['../class_game_management_1_1_trigger_event_on_collision.html#a8081c89ce6344f1c8e248c75ad96e324',1,'GameManagement.TriggerEventOnCollision.TriggerEvent()'],['../class_game_management_1_1_trigger_event_on_dead.html#a8fcd9199b2e2060584e81b72b774cba8',1,'GameManagement.TriggerEventOnDead.TriggerEvent()']]],
+  ['triggereventoncollision_8',['TriggerEventOnCollision',['../class_game_management_1_1_trigger_event_on_collision.html',1,'GameManagement']]],
   ['triggereventoncollision_2ecs_9',['TriggerEventOnCollision.cs',['../_trigger_event_on_collision_8cs.html',1,'']]],
-  ['triggereventondead_10',['TriggerEventOnDead',['../class_trigger_event_on_dead.html',1,'']]],
+  ['triggereventondead_10',['TriggerEventOnDead',['../class_game_management_1_1_trigger_event_on_dead.html',1,'GameManagement']]],
   ['triggereventondead_2ecs_11',['TriggerEventOnDead.cs',['../_trigger_event_on_dead_8cs.html',1,'']]],
   ['turntime_12',['turnTime',['../class_player_movement3_d.html#ab32f0f1c39f9ac3ba9c3da7bbbf9ff34',1,'PlayerMovement3D']]]
 ];

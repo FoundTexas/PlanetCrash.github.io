@@ -1,4 +1,4 @@
 var _scene_loader_8cs =
 [
-    [ "SceneLoader", "class_scene_loader.html", "class_scene_loader" ]
+    [ "GameManagement.SceneLoader", "class_game_management_1_1_scene_loader.html", "class_game_management_1_1_scene_loader" ]
 ];

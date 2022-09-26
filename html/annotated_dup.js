@@ -7,6 +7,11 @@ var annotated_dup =
       [ "PlanetFragment", "class_collectables_1_1_planet_fragment.html", "class_collectables_1_1_planet_fragment" ],
       [ "WeaponUnlocker", "class_collectables_1_1_weapon_unlocker.html", null ]
     ] ],
+    [ "GameManagement", "namespace_game_management.html", [
+      [ "SceneLoader", "class_game_management_1_1_scene_loader.html", "class_game_management_1_1_scene_loader" ],
+      [ "TriggerEventOnCollision", "class_game_management_1_1_trigger_event_on_collision.html", "class_game_management_1_1_trigger_event_on_collision" ],
+      [ "TriggerEventOnDead", "class_game_management_1_1_trigger_event_on_dead.html", "class_game_management_1_1_trigger_event_on_dead" ]
+    ] ],
     [ "Interfaces", "namespace_interfaces.html", [
       [ "IDamage", "interface_interfaces_1_1_i_damage.html", "interface_interfaces_1_1_i_damage" ],
       [ "ISave", "interface_interfaces_1_1_i_save.html", "interface_interfaces_1_1_i_save" ]
@@ -49,10 +54,7 @@ var annotated_dup =
     [ "MeleeAttack", "class_melee_attack.html", "class_melee_attack" ],
     [ "PlayerHealth", "class_player_health.html", "class_player_health" ],
     [ "PlayerMovement3D", "class_player_movement3_d.html", "class_player_movement3_d" ],
-    [ "SceneLoader", "class_scene_loader.html", "class_scene_loader" ],
     [ "SceneManagement", "class_scene_management.html", "class_scene_management" ],
     [ "ThirdPersonMovement", "class_third_person_movement.html", "class_third_person_movement" ],
-    [ "TriggerEventOnCollision", "class_trigger_event_on_collision.html", "class_trigger_event_on_collision" ],
-    [ "TriggerEventOnDead", "class_trigger_event_on_dead.html", "class_trigger_event_on_dead" ],
     [ "VacuumEnemy", "class_vacuum_enemy.html", null ]
 ];
