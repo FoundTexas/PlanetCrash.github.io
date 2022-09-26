@@ -1,4 +1,4 @@
 var _collectable_8cs =
 [
-    [ "Collectable", "class_collectable.html", "class_collectable" ]
+    [ "Collectables.Collectable", "class_collectables_1_1_collectable.html", "class_collectables_1_1_collectable" ]
 ];

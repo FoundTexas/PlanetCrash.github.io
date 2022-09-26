@@ -1,5 +1,16 @@
 var annotated_dup =
 [
+    [ "Collectables", "namespace_collectables.html", [
+      [ "Collectable", "class_collectables_1_1_collectable.html", "class_collectables_1_1_collectable" ],
+      [ "Droppable", "class_collectables_1_1_droppable.html", "class_collectables_1_1_droppable" ],
+      [ "Dropper", "class_collectables_1_1_dropper.html", "class_collectables_1_1_dropper" ],
+      [ "PlanetFragment", "class_collectables_1_1_planet_fragment.html", "class_collectables_1_1_planet_fragment" ],
+      [ "WeaponUnlocker", "class_collectables_1_1_weapon_unlocker.html", null ]
+    ] ],
+    [ "Interfaces", "namespace_interfaces.html", [
+      [ "IDamage", "interface_interfaces_1_1_i_damage.html", "interface_interfaces_1_1_i_damage" ],
+      [ "ISave", "interface_interfaces_1_1_i_save.html", "interface_interfaces_1_1_i_save" ]
+    ] ],
     [ "Optimization_Module", "namespace_optimization___module.html", [
       [ "RadarVFC", "class_optimization___module_1_1_radar_v_f_c.html", "class_optimization___module_1_1_radar_v_f_c" ],
       [ "RenderObject", "class_optimization___module_1_1_render_object.html", "class_optimization___module_1_1_render_object" ]
@@ -30,18 +41,12 @@ var annotated_dup =
     ] ],
     [ "AudioAndVideoManager", "class_audio_and_video_manager.html", "class_audio_and_video_manager" ],
     [ "CameraSensitivity", "class_camera_sensitivity.html", "class_camera_sensitivity" ],
-    [ "Collectable", "class_collectable.html", "class_collectable" ],
-    [ "Droppable", "class_droppable.html", "class_droppable" ],
-    [ "Dropper", "class_dropper.html", "class_dropper" ],
     [ "Enemy", "class_enemy.html", "class_enemy" ],
     [ "GameManager", "class_game_manager.html", null ],
     [ "HitStop", "class_hit_stop.html", "class_hit_stop" ],
-    [ "IDamage", "interface_i_damage.html", "interface_i_damage" ],
     [ "jsonbools", "classjsonbools.html", "classjsonbools" ],
-    [ "LevelManager", "class_level_manager.html", null ],
     [ "LookAtCamera", "class_look_at_camera.html", null ],
     [ "MeleeAttack", "class_melee_attack.html", "class_melee_attack" ],
-    [ "PlanetFragment", "class_planet_fragment.html", "class_planet_fragment" ],
     [ "PlayerHealth", "class_player_health.html", "class_player_health" ],
     [ "PlayerMovement3D", "class_player_movement3_d.html", "class_player_movement3_d" ],
     [ "SceneLoader", "class_scene_loader.html", "class_scene_loader" ],
@@ -49,6 +54,5 @@ var annotated_dup =
     [ "ThirdPersonMovement", "class_third_person_movement.html", "class_third_person_movement" ],
     [ "TriggerEventOnCollision", "class_trigger_event_on_collision.html", "class_trigger_event_on_collision" ],
     [ "TriggerEventOnDead", "class_trigger_event_on_dead.html", "class_trigger_event_on_dead" ],
-    [ "VacuumEnemy", "class_vacuum_enemy.html", null ],
-    [ "WeaponUnlocker", "class_weapon_unlocker.html", null ]
+    [ "VacuumEnemy", "class_vacuum_enemy.html", null ]
 ];

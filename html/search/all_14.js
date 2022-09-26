@@ -15,6 +15,6 @@ var searchData=
   ['weaponmanager_12',['WeaponManager',['../class_weapon_system_1_1_weapon_manager.html',1,'WeaponSystem']]],
   ['weaponmanager_2ecs_13',['WeaponManager.cs',['../_weapon_manager_8cs.html',1,'']]],
   ['weaponsystem_14',['WeaponSystem',['../namespace_weapon_system.html',1,'']]],
-  ['weaponunlocker_15',['WeaponUnlocker',['../class_weapon_unlocker.html',1,'']]],
+  ['weaponunlocker_15',['WeaponUnlocker',['../class_collectables_1_1_weapon_unlocker.html',1,'Collectables']]],
   ['weaponunlocker_2ecs_16',['WeaponUnlocker.cs',['../_weapon_unlocker_8cs.html',1,'']]]
 ];

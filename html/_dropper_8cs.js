@@ -1,4 +1,4 @@
 var _dropper_8cs =
 [
-    [ "Dropper", "class_dropper.html", "class_dropper" ]
+    [ "Collectables.Dropper", "class_collectables_1_1_dropper.html", "class_collectables_1_1_dropper" ]
 ];

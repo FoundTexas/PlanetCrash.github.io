@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['props_0',['Props',['../namespace_props.html',1,'']]]
+  ['interfaces_0',['Interfaces',['../namespace_interfaces.html',1,'']]]
 ];

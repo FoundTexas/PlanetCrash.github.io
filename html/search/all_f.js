@@ -9,10 +9,11 @@ var searchData=
   ['rayout_6',['RayOut',['../class_weapon_system_1_1_weapon.html#aedbac0bc8c6b81d6ede41e64b2332b50',1,'WeaponSystem::Weapon']]],
   ['remaininghitstop_7',['remainingHitStop',['../class_hit_stop.html#a52c44b2d78fcb0fba5113ff702f2f33b',1,'HitStop']]],
   ['removesceneobj_8',['RemoveSceneObj',['../class_optimization___module_1_1_radar_v_f_c.html#adf494a05dcd88a1227cabdbf59db6ff0',1,'Optimization_Module::RadarVFC']]],
-  ['renderobject_9',['RenderObject',['../class_optimization___module_1_1_render_object.html',1,'Optimization_Module']]],
-  ['renderobject_2ecs_10',['RenderObject.cs',['../_render_object_8cs.html',1,'']]],
-  ['reolad_11',['Reolad',['../class_weapon_system_1_1_weapon.html#add82d7040626c168067a8f1cb0e3feae',1,'WeaponSystem::Weapon']]],
-  ['reoladevent_12',['ReoladEvent',['../class_weapon_system_1_1_weapon.html#ac12db48f802e8e8c32dcb3a8d71737df',1,'WeaponSystem::Weapon']]],
-  ['resetattack_13',['ResetAttack',['../class_enemy.html#a6effe113db91b5ea6803bb7f0e24cb52',1,'Enemy']]],
-  ['resume_14',['Resume',['../class_u_i_1_1_pause_menu.html#a87757210b71f565cc4c12ec52bd7e1d0',1,'UI::PauseMenu']]]
+  ['render_9',['render',['../class_collectables_1_1_collectable.html#acdd61a423edd1b2636026366398d0475',1,'Collectables::Collectable']]],
+  ['renderobject_10',['RenderObject',['../class_optimization___module_1_1_render_object.html',1,'Optimization_Module']]],
+  ['renderobject_2ecs_11',['RenderObject.cs',['../_render_object_8cs.html',1,'']]],
+  ['reolad_12',['Reolad',['../class_weapon_system_1_1_weapon.html#add82d7040626c168067a8f1cb0e3feae',1,'WeaponSystem::Weapon']]],
+  ['reoladevent_13',['ReoladEvent',['../class_weapon_system_1_1_weapon.html#ac12db48f802e8e8c32dcb3a8d71737df',1,'WeaponSystem::Weapon']]],
+  ['resetattack_14',['ResetAttack',['../class_enemy.html#a6effe113db91b5ea6803bb7f0e24cb52',1,'Enemy']]],
+  ['resume_15',['Resume',['../class_u_i_1_1_pause_menu.html#a87757210b71f565cc4c12ec52bd7e1d0',1,'UI::PauseMenu']]]
 ];

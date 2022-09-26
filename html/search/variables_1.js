@@ -12,6 +12,6 @@ var searchData=
   ['crouchspeed_9',['crouchSpeed',['../class_player_movement3_d.html#a0df010444930df08a21ba37d97332a33',1,'PlayerMovement3D']]],
   ['curammo_10',['curAmmo',['../class_weapon_system_1_1_weapon.html#a505f695d9257d4a856818428f55b69d2',1,'WeaponSystem::Weapon']]],
   ['curmagazine_11',['curMagazine',['../class_weapon_system_1_1_weapon.html#ae54c0e4dff0cb19d245e4d114b57c584',1,'WeaponSystem::Weapon']]],
-  ['currencyprefab_12',['CurrencyPrefab',['../class_dropper.html#a7b2028d9a4e4fcba6f7d496a6801821a',1,'Dropper']]],
+  ['currencyprefab_12',['CurrencyPrefab',['../class_collectables_1_1_dropper.html#a8e6c2f37806ed9baa461da8f8d840453',1,'Collectables::Dropper']]],
   ['curshoots_13',['curShootS',['../class_weapon_system_1_1_weapon.html#a1cf319862b49e6b7cd209099d0389fbd',1,'WeaponSystem::Weapon']]]
 ];

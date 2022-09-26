@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['mat_0',['mat',['../class_collectable.html#ae9c1b948ba7b035b0ddaceb88df8ac13',1,'Collectable']]],
-  ['mat2_1',['mat2',['../class_collectable.html#a6415e36033760e87b3aabf7876e1f803',1,'Collectable']]],
+  ['mat_0',['mat',['../class_collectables_1_1_collectable.html#ab2f280f806b076b2caae97ec41bb8dc0',1,'Collectables::Collectable']]],
+  ['mat2_1',['mat2',['../class_collectables_1_1_collectable.html#a61545e0c2a58132950bdd744cb5b1120',1,'Collectables::Collectable']]],
   ['maxhp_2',['maxhp',['../class_props_1_1_box.html#a85ef23c53530d136796edc5332efd825',1,'Props::Box']]],
   ['maxslopeangle_3',['maxSlopeAngle',['../class_player_movement3_d.html#a11bd42cee78620cf38559cb2373ea641',1,'PlayerMovement3D']]],
   ['maxspeed_4',['maxSpeed',['../class_player_movement3_d.html#a82e4a4388cdb6c6a63ffe47e4e63f0a2',1,'PlayerMovement3D']]],

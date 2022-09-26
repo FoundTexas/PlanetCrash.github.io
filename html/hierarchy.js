@@ -1,28 +1,30 @@
 var hierarchy =
 [
-    [ "IDamage", "interface_i_damage.html", [
+    [ "Interfaces.IDamage", "interface_interfaces_1_1_i_damage.html", [
       [ "Enemy", "class_enemy.html", [
         [ "VacuumEnemy", "class_vacuum_enemy.html", null ]
       ] ],
       [ "PlayerHealth", "class_player_health.html", null ],
       [ "Props.Box", "class_props_1_1_box.html", null ]
     ] ],
+    [ "Interfaces.ISave", "interface_interfaces_1_1_i_save.html", null ],
     [ "jsonbools", "classjsonbools.html", null ],
     [ "MonoBehaviour", null, [
       [ "AudioAndVideoManager", "class_audio_and_video_manager.html", null ],
       [ "CameraSensitivity", "class_camera_sensitivity.html", null ],
-      [ "Collectable", "class_collectable.html", null ],
-      [ "Droppable", "class_droppable.html", null ],
-      [ "Dropper", "class_dropper.html", null ],
+      [ "Collectables.Collectable", "class_collectables_1_1_collectable.html", [
+        [ "Collectables.PlanetFragment", "class_collectables_1_1_planet_fragment.html", null ]
+      ] ],
+      [ "Collectables.Droppable", "class_collectables_1_1_droppable.html", null ],
+      [ "Collectables.Dropper", "class_collectables_1_1_dropper.html", null ],
+      [ "Collectables.WeaponUnlocker", "class_collectables_1_1_weapon_unlocker.html", null ],
       [ "Enemy", "class_enemy.html", null ],
       [ "GameManager", "class_game_manager.html", null ],
       [ "HitStop", "class_hit_stop.html", null ],
-      [ "LevelManager", "class_level_manager.html", null ],
       [ "LookAtCamera", "class_look_at_camera.html", null ],
       [ "MeleeAttack", "class_melee_attack.html", null ],
       [ "Optimization_Module.RadarVFC", "class_optimization___module_1_1_radar_v_f_c.html", null ],
       [ "Optimization_Module.RenderObject", "class_optimization___module_1_1_render_object.html", null ],
-      [ "PlanetFragment", "class_planet_fragment.html", null ],
       [ "PlayerHealth", "class_player_health.html", null ],
       [ "PlayerMovement3D", "class_player_movement3_d.html", null ],
       [ "Props.Box", "class_props_1_1_box.html", null ],
@@ -44,7 +46,6 @@ var hierarchy =
         [ "WeaponSystem.ProjectileWeapons.ProjectileWeapon", "class_weapon_system_1_1_projectile_weapons_1_1_projectile_weapon.html", null ],
         [ "WeaponSystem.RayCastWeapons.RayCastWeapon", "class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html", null ]
       ] ],
-      [ "WeaponSystem.WeaponManager", "class_weapon_system_1_1_weapon_manager.html", null ],
-      [ "WeaponUnlocker", "class_weapon_unlocker.html", null ]
+      [ "WeaponSystem.WeaponManager", "class_weapon_system_1_1_weapon_manager.html", null ]
     ] ]
 ];

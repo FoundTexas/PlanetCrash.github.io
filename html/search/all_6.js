@@ -2,7 +2,7 @@ var searchData=
 [
   ['gamemanager_0',['GameManager',['../class_game_manager.html',1,'']]],
   ['gamemanager_2ecs_1',['GameManager.cs',['../_game_manager_8cs.html',1,'']]],
-  ['getcollected_2',['GetCollected',['../class_collectable.html#a745665bb6585982d2cc7aece51f5a837',1,'Collectable']]],
+  ['getcollected_2',['GetCollected',['../class_collectables_1_1_collectable.html#acbbe02432d8326b663f348e2d2ece3cb',1,'Collectables::Collectable']]],
   ['getid_3',['GetID',['../class_weapon_system_1_1_weapon.html#a62fcdadc1656d6360eb7d80d91c1fb9b',1,'WeaponSystem::Weapon']]],
   ['getnearest_4',['GetNearest',['../class_weapon_system_1_1_area_weapons_1_1_area_weapon.html#a1a9daa4876a97e71448b2fa6c46e5691',1,'WeaponSystem::AreaWeapons::AreaWeapon']]],
   ['getray_5',['GetRay',['../class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html#ac9ee733e236d529d86908093d6972001',1,'WeaponSystem::RayCastWeapons::RayCastWeapon']]],

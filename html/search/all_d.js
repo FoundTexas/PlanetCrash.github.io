@@ -4,7 +4,7 @@ var searchData=
   ['pausemenu_1',['pauseMenu',['../class_u_i_1_1_settings_menu.html#a8daa2629670ab9da6f3982c3c836dd3f',1,'UI::SettingsMenu']]],
   ['pausemenu_2',['PauseMenu',['../class_u_i_1_1_pause_menu.html',1,'UI']]],
   ['pausemenu_2ecs_3',['PauseMenu.cs',['../_pause_menu_8cs.html',1,'']]],
-  ['planetfragment_4',['PlanetFragment',['../class_planet_fragment.html',1,'']]],
+  ['planetfragment_4',['PlanetFragment',['../class_collectables_1_1_planet_fragment.html',1,'Collectables']]],
   ['planetfragment_2ecs_5',['PlanetFragment.cs',['../_planet_fragment_8cs.html',1,'']]],
   ['player_6',['player',['../class_enemy.html#acd76498131c63e6e5a871e52300945e8',1,'Enemy.player()'],['../class_u_i_1_1_mini_map.html#a060981ee18a3e0ebb17f15b3f0404a70',1,'UI.MiniMap.player()']]],
   ['playerhealth_7',['PlayerHealth',['../class_player_health.html',1,'']]],

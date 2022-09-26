@@ -1,7 +1,7 @@
 var searchData=
 [
   ['dashforce_0',['dashForce',['../class_player_movement3_d.html#a8e5eb88b2e2288d542fe811e646481b4',1,'PlayerMovement3D']]],
-  ['die_1',['Die',['../class_enemy.html#ac8eb629ba2895e86aa7f940334c94c02',1,'Enemy.Die()'],['../interface_i_damage.html#aa2099ce76cb620a016a8e7f4c1c5adaa',1,'IDamage.Die()'],['../class_player_health.html#ace992787dceb63696c18f909eee99e42',1,'PlayerHealth.Die()'],['../class_props_1_1_box.html#af0670b2af6da1170e87b5392d2939d3f',1,'Props.Box.Die()']]],
+  ['die_1',['Die',['../class_enemy.html#ac8eb629ba2895e86aa7f940334c94c02',1,'Enemy.Die()'],['../interface_interfaces_1_1_i_damage.html#aa7b38e902c66c8c5948277d052db9f72',1,'Interfaces.IDamage.Die()'],['../class_player_health.html#ace992787dceb63696c18f909eee99e42',1,'PlayerHealth.Die()'],['../class_props_1_1_box.html#af0670b2af6da1170e87b5392d2939d3f',1,'Props.Box.Die()']]],
   ['dir_2',['Dir',['../class_props_1_1_moving_platform.html#af49ddb69076ad01ea6c45fe930e58686',1,'Props::MovingPlatform']]],
   ['direction_3',['Direction',['../class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html#a634a5c3d8882a1ce6c9743f2a4528350',1,'WeaponSystem::RayCastWeapons::RayCastWeapon']]],
   ['distance_4',['distance',['../class_weapon_system_1_1_weapon.html#a57a4f388bc5c6d251f9513e99ac5a9fa',1,'WeaponSystem::Weapon']]],
@@ -12,10 +12,10 @@ var searchData=
   ['dohitstop_9',['DoHitStop',['../class_hit_stop.html#a6a12b19f5dd1c5e6db4b3d1838f7a6ff',1,'HitStop']]],
   ['doubletapcooldown_10',['doubleTapCoolDown',['../class_player_movement3_d.html#a39eccbb20d9a140c0a29df8b44884ce6',1,'PlayerMovement3D']]],
   ['doubletaptime_11',['doubleTapTime',['../class_player_movement3_d.html#a4ff1f6df24405081b7a0760988f52728',1,'PlayerMovement3D']]],
-  ['dropcurrency_12',['dropCurrency',['../class_dropper.html#a89a981409577825a5f2dcdaacc042942',1,'Dropper']]],
-  ['dropenergy_13',['dropEnergy',['../class_dropper.html#a8d13622df01ccbd5cef3f3df7c1ca587',1,'Dropper']]],
-  ['droppable_14',['Droppable',['../class_droppable.html',1,'']]],
+  ['dropcurrency_12',['dropCurrency',['../class_collectables_1_1_dropper.html#ab0d3653d8c088e5064705ba6934f182e',1,'Collectables::Dropper']]],
+  ['dropenergy_13',['dropEnergy',['../class_collectables_1_1_dropper.html#a03323e04fc20eee60c19547fb0b46b9e',1,'Collectables::Dropper']]],
+  ['droppable_14',['Droppable',['../class_collectables_1_1_droppable.html',1,'Collectables']]],
   ['droppable_2ecs_15',['Droppable.cs',['../_droppable_8cs.html',1,'']]],
-  ['dropper_16',['Dropper',['../class_dropper.html',1,'']]],
+  ['dropper_16',['Dropper',['../class_collectables_1_1_dropper.html',1,'Collectables']]],
   ['dropper_2ecs_17',['Dropper.cs',['../_dropper_8cs.html',1,'']]]
 ];

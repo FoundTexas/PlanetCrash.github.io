@@ -8,6 +8,6 @@ var searchData=
   ['dmg_5',['dmg',['../class_weapon_system_1_1_weapon.html#aa396049ce90e11a221931d06277a7c13',1,'WeaponSystem::Weapon']]],
   ['doubletapcooldown_6',['doubleTapCoolDown',['../class_player_movement3_d.html#a39eccbb20d9a140c0a29df8b44884ce6',1,'PlayerMovement3D']]],
   ['doubletaptime_7',['doubleTapTime',['../class_player_movement3_d.html#a4ff1f6df24405081b7a0760988f52728',1,'PlayerMovement3D']]],
-  ['dropcurrency_8',['dropCurrency',['../class_dropper.html#a89a981409577825a5f2dcdaacc042942',1,'Dropper']]],
-  ['dropenergy_9',['dropEnergy',['../class_dropper.html#a8d13622df01ccbd5cef3f3df7c1ca587',1,'Dropper']]]
+  ['dropcurrency_8',['dropCurrency',['../class_collectables_1_1_dropper.html#ab0d3653d8c088e5064705ba6934f182e',1,'Collectables::Dropper']]],
+  ['dropenergy_9',['dropEnergy',['../class_collectables_1_1_dropper.html#a03323e04fc20eee60c19547fb0b46b9e',1,'Collectables::Dropper']]]
 ];
