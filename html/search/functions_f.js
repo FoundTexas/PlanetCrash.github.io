@@ -24,8 +24,10 @@ var searchData=
   ['setvolume_21',['SetVolume',['../class_pause_menu.html#ab380174e3dd6b8112df71a682321e50a',1,'PauseMenu.SetVolume()'],['../class_settings_menu.html#a18d841ef0a70fe51fdc9876392df55e3',1,'SettingsMenu.SetVolume()']]],
   ['shiftcolor_22',['ShiftColor',['../class_flexible_color_picker.html#ad4e775648609edc52e8e4e9cac3c4320',1,'FlexibleColorPicker']]],
   ['shifthue_23',['ShiftHue',['../class_flexible_color_picker.html#a12189e194ce073db5b7e6a4b5939dbe6',1,'FlexibleColorPicker']]],
-  ['shoot_24',['Shoot',['../class_weapon_system_1_1_weapon.html#a9c6ee745d7c2761d053b09bd0b619c93',1,'WeaponSystem.Weapon.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_grappling_hook.html#a50e3aa1be962cd0680a106776bfb49db',1,'WeaponSystem.Weapons.GrapplingHook.Shoot()'],['../class_weapon_system_1_1_weapons_1_1_sound_shotgun.html#acce1494b8d0faabbfbcb9aaa09fe1bc4',1,'WeaponSystem.Weapons.SoundShotgun.Shoot()']]],
-  ['spawn_25',['Spawn',['../class_dropper.html#a02c09e3e9fa18cf9f899aa382844b185',1,'Dropper']]],
-  ['startbakingsurfaces_26',['StartBakingSurfaces',['../class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a9eb384b5a70428c55a15dae6a4dd48c7',1,'UnityEditor::AI::NavMeshAssetManager']]],
-  ['stepsound_27',['StepSound',['../class_audio_and_video_manager.html#aac64769188cce0ee5f404b36d78a6830',1,'AudioAndVideoManager']]]
+  ['shoot_24',['Shoot',['../class_weapon_system_1_1_area_weapon_1_1_area_weapon.html#a7e6678e2e61b5d1c031144a79c71a5db',1,'WeaponSystem.AreaWeapon.AreaWeapon.Shoot()'],['../class_weapon_system_1_1_area_weapon_1_1_grappling_hook.html#a9fb8f9cd2c290bd1f0659ee96aeb5313',1,'WeaponSystem.AreaWeapon.GrapplingHook.Shoot()'],['../class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html#a3c53d21cd574932279efe10c050c2607',1,'WeaponSystem.ProjectileWeapon.ProjectileWeapon.Shoot()'],['../class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html#a703a0c244a4fd45ec95cb7d941cd37aa',1,'WeaponSystem.RayCastWeapons.RayCastWeapon.Shoot()'],['../class_weapon_system_1_1_weapon.html#a9c6ee745d7c2761d053b09bd0b619c93',1,'WeaponSystem.Weapon.Shoot()']]],
+  ['shootray_25',['ShootRay',['../class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html#aed7bfa5d3b2cd7dd52e3ad33336bd093',1,'WeaponSystem::RayCastWeapons::RayCastWeapon']]],
+  ['spawn_26',['Spawn',['../class_dropper.html#a02c09e3e9fa18cf9f899aa382844b185',1,'Dropper']]],
+  ['spawnprojectile_27',['SpawnProjectile',['../class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html#a0cc1090ddb033007d862b4f296a88f5f',1,'WeaponSystem::ProjectileWeapon::ProjectileWeapon']]],
+  ['startbakingsurfaces_28',['StartBakingSurfaces',['../class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a9eb384b5a70428c55a15dae6a4dd48c7',1,'UnityEditor::AI::NavMeshAssetManager']]],
+  ['stepsound_29',['StepSound',['../class_audio_and_video_manager.html#aac64769188cce0ee5f404b36d78a6830',1,'AudioAndVideoManager']]]
 ];

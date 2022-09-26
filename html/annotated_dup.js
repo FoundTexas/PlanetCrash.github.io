@@ -23,23 +23,25 @@ var annotated_dup =
       ] ]
     ] ],
     [ "WeaponSystem", "namespace_weapon_system.html", [
-      [ "Weapons", "namespace_weapon_system_1_1_weapons.html", [
-        [ "GrapplingHook", "class_weapon_system_1_1_weapons_1_1_grappling_hook.html", "class_weapon_system_1_1_weapons_1_1_grappling_hook" ],
-        [ "SoundShotgun", "class_weapon_system_1_1_weapons_1_1_sound_shotgun.html", "class_weapon_system_1_1_weapons_1_1_sound_shotgun" ]
+      [ "AreaWeapon", "namespace_weapon_system_1_1_area_weapon.html", [
+        [ "AreaWeapon", "class_weapon_system_1_1_area_weapon_1_1_area_weapon.html", "class_weapon_system_1_1_area_weapon_1_1_area_weapon" ],
+        [ "GrapplingHook", "class_weapon_system_1_1_area_weapon_1_1_grappling_hook.html", "class_weapon_system_1_1_area_weapon_1_1_grappling_hook" ]
       ] ],
-      [ "Reticle", "class_weapon_system_1_1_reticle.html", "class_weapon_system_1_1_reticle" ],
+      [ "ProjectileWeapon", "namespace_weapon_system_1_1_projectile_weapon.html", [
+        [ "ProjectileWeapon", "class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html", "class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon" ]
+      ] ],
+      [ "RayCastWeapons", "namespace_weapon_system_1_1_ray_cast_weapons.html", [
+        [ "RayCastWeapon", "class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html", "class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon" ]
+      ] ],
       [ "Weapon", "class_weapon_system_1_1_weapon.html", "class_weapon_system_1_1_weapon" ],
       [ "WeaponManager", "class_weapon_system_1_1_weapon_manager.html", "class_weapon_system_1_1_weapon_manager" ]
     ] ],
     [ "AmmoDisplay", "class_ammo_display.html", "class_ammo_display" ],
-    [ "AmmunitionObject", "class_ammunition_object.html", null ],
     [ "AudioAndVideoManager", "class_audio_and_video_manager.html", "class_audio_and_video_manager" ],
     [ "Box", "class_box.html", "class_box" ],
     [ "CameraSensitivity", "class_camera_sensitivity.html", "class_camera_sensitivity" ],
     [ "ChangeOnKeyAudio", "class_change_on_key_audio.html", null ],
     [ "Collectable", "class_collectable.html", "class_collectable" ],
-    [ "Collectible", "class_collectible.html", "class_collectible" ],
-    [ "CollisionCheckers", "class_collision_checkers.html", "class_collision_checkers" ],
     [ "ColorPickerManager", "class_color_picker_manager.html", "class_color_picker_manager" ],
     [ "CrateGridBuilder", "class_crate_grid_builder.html", "class_crate_grid_builder" ],
     [ "CreateExplotion", "class_create_explotion.html", "class_create_explotion" ],

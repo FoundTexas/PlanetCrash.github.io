@@ -14,7 +14,6 @@ var searchData=
   ['curammo_11',['curAmmo',['../class_weapon_system_1_1_weapon.html#a505f695d9257d4a856818428f55b69d2',1,'WeaponSystem::Weapon']]],
   ['curmagazine_12',['curMagazine',['../class_weapon_system_1_1_weapon.html#ae54c0e4dff0cb19d245e4d114b57c584',1,'WeaponSystem::Weapon']]],
   ['currencyprefab_13',['CurrencyPrefab',['../class_dropper.html#a7b2028d9a4e4fcba6f7d496a6801821a',1,'Dropper']]],
-  ['currencyvalue_14',['CurrencyValue',['../class_collectible.html#a9f2b87e6f73194b38e78ca541a6c97b3',1,'Collectible']]],
-  ['currentammo_15',['currentAmmo',['../class_ammo_display.html#a71c8899e20a621e1838918d25a9f2a98',1,'AmmoDisplay']]],
-  ['curshoots_16',['curShootS',['../class_weapon_system_1_1_weapon.html#a1cf319862b49e6b7cd209099d0389fbd',1,'WeaponSystem::Weapon']]]
+  ['currentammo_14',['currentAmmo',['../class_ammo_display.html#a71c8899e20a621e1838918d25a9f2a98',1,'AmmoDisplay']]],
+  ['curshoots_15',['curShootS',['../class_weapon_system_1_1_weapon.html#a1cf319862b49e6b7cd209099d0389fbd',1,'WeaponSystem::Weapon']]]
 ];

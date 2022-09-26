@@ -6,6 +6,5 @@ var searchData=
   ['healthbar_3',['healthBar',['../class_player_health.html#a02a876942dc403f8d6c42fc36eda8fc3',1,'PlayerHealth']]],
   ['height_4',['height',['../class_crate_grid_builder.html#a86cecc70faa36ff9f80de9330f8394a2',1,'CrateGridBuilder']]],
   ['hitstop_5',['hitStop',['../class_enemy.html#af93e09e6992443a9ffcfa7f7b494762e',1,'Enemy']]],
-  ['hitstopduration_6',['hitStopDuration',['../class_hit_stop.html#a532aefe98e7ee0231380bb4d5b462918',1,'HitStop']]],
-  ['hitting_7',['hitting',['../class_weapon_system_1_1_reticle.html#a38d79fa1f74629c874f9c91c3c93932d',1,'WeaponSystem::Reticle']]]
+  ['hitstopduration_6',['hitStopDuration',['../class_hit_stop.html#a532aefe98e7ee0231380bb4d5b462918',1,'HitStop']]]
 ];

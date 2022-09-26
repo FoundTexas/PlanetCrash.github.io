@@ -6,7 +6,7 @@ var searchData=
   ['tilesize_3',['tileSize',['../class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#aad6f77c6cb0977c02adcd32c419d3b5c',1,'UnityEngine::AI::NavMeshSurface']]],
   ['timepatrolling_4',['timePatrolling',['../class_enemy.html#a477bc5ae2f89e74c6b3dd063827b8169',1,'Enemy']]],
   ['timer_5',['timer',['../class_planet_fragment.html#a547433c435db3441c8ccd888c8731872',1,'PlanetFragment']]],
-  ['toggleweapon_6',['toggleWeapon',['../class_weapon_system_1_1_weapon_manager.html#a16ef305eb98907b11ab8ac820ef2fa7f',1,'WeaponSystem::WeaponManager']]],
+  ['toggleweapon_6',['ToggleWeapon',['../class_weapon_system_1_1_weapon_manager.html#a51a7865a1890361c0d81cab10e0565ec',1,'WeaponSystem::WeaponManager']]],
   ['triggerevent_7',['TriggerEvent',['../class_trigger_event_on_collision.html#a1976555a586c8dd91202a97ea99f0251',1,'TriggerEventOnCollision.TriggerEvent()'],['../class_trigger_event_on_dead.html#a0dfcecde0d7b2171689a1a8ec0f99dff',1,'TriggerEventOnDead.TriggerEvent()']]],
   ['triggereventoncollision_8',['TriggerEventOnCollision',['../class_trigger_event_on_collision.html',1,'']]],
   ['triggereventoncollision_2ecs_9',['TriggerEventOnCollision.cs',['../_trigger_event_on_collision_8cs.html',1,'']]],

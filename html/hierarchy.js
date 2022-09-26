@@ -17,14 +17,11 @@ var hierarchy =
     [ "jsonbools", "classjsonbools.html", null ],
     [ "MonoBehaviour", null, [
       [ "AmmoDisplay", "class_ammo_display.html", null ],
-      [ "AmmunitionObject", "class_ammunition_object.html", null ],
       [ "AudioAndVideoManager", "class_audio_and_video_manager.html", null ],
       [ "Box", "class_box.html", null ],
       [ "CameraSensitivity", "class_camera_sensitivity.html", null ],
       [ "ChangeOnKeyAudio", "class_change_on_key_audio.html", null ],
       [ "Collectable", "class_collectable.html", null ],
-      [ "Collectible", "class_collectible.html", null ],
-      [ "CollisionCheckers", "class_collision_checkers.html", null ],
       [ "ColorPickerManager", "class_color_picker_manager.html", null ],
       [ "CrateGridBuilder", "class_crate_grid_builder.html", null ],
       [ "CreateExplotion", "class_create_explotion.html", null ],
@@ -67,10 +64,12 @@ var hierarchy =
       [ "UnityEngine.AI.NavMeshModifier", "class_unity_engine_1_1_a_i_1_1_nav_mesh_modifier.html", null ],
       [ "UnityEngine.AI.NavMeshModifierVolume", "class_unity_engine_1_1_a_i_1_1_nav_mesh_modifier_volume.html", null ],
       [ "UnityEngine.AI.NavMeshSurface", "class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html", null ],
-      [ "WeaponSystem.Reticle", "class_weapon_system_1_1_reticle.html", null ],
       [ "WeaponSystem.Weapon", "class_weapon_system_1_1_weapon.html", [
-        [ "WeaponSystem.Weapons.GrapplingHook", "class_weapon_system_1_1_weapons_1_1_grappling_hook.html", null ],
-        [ "WeaponSystem.Weapons.SoundShotgun", "class_weapon_system_1_1_weapons_1_1_sound_shotgun.html", null ]
+        [ "WeaponSystem.AreaWeapon.AreaWeapon", "class_weapon_system_1_1_area_weapon_1_1_area_weapon.html", [
+          [ "WeaponSystem.AreaWeapon.GrapplingHook", "class_weapon_system_1_1_area_weapon_1_1_grappling_hook.html", null ]
+        ] ],
+        [ "WeaponSystem.ProjectileWeapon.ProjectileWeapon", "class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html", null ],
+        [ "WeaponSystem.RayCastWeapons.RayCastWeapon", "class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html", null ]
       ] ],
       [ "WeaponSystem.WeaponManager", "class_weapon_system_1_1_weapon_manager.html", null ],
       [ "WeaponUnlocker", "class_weapon_unlocker.html", null ]

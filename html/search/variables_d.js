@@ -6,5 +6,5 @@ var searchData=
   ['playerinsights_3',['playerInSights',['../class_enemy.html#a0f0deb7ec5a1044879ee586900dbe787',1,'Enemy']]],
   ['playerref_4',['PlayerRef',['../class_weapon_system_1_1_weapon.html#a8e9128ac1a12b25f3b9a9faeffad5852',1,'WeaponSystem::Weapon']]],
   ['playerweapons_5',['playerWeapons',['../class_player_health.html#aeb4462b1f6bca787bb5cedd44e86dbae',1,'PlayerHealth']]],
-  ['projectile_6',['projectile',['../class_weapon_system_1_1_weapon.html#a82cdf2416eddaa43cdfee1fcba26613c',1,'WeaponSystem::Weapon']]]
+  ['projectile_6',['projectile',['../class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html#a29e12d2b6e09c49dbc49199960144e8b',1,'WeaponSystem::ProjectileWeapon::ProjectileWeapon']]]
 ];

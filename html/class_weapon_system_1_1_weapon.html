@@ -104,15 +104,15 @@ Inheritance diagram for WeaponSystem.Weapon:</div>
  <div class="center">
   <img src="class_weapon_system_1_1_weapon.png" usemap="#WeaponSystem.Weapon_map" alt=""/>
   <map id="WeaponSystem.Weapon_map" name="WeaponSystem.Weapon_map">
-<area href="class_weapon_system_1_1_weapons_1_1_grappling_hook.html" alt="WeaponSystem.Weapons.GrapplingHook" shape="rect" coords="0,112,242,136"/>
-<area href="class_weapon_system_1_1_weapons_1_1_sound_shotgun.html" alt="WeaponSystem.Weapons.SoundShotgun" shape="rect" coords="252,112,494,136"/>
+<area href="class_weapon_system_1_1_area_weapon_1_1_area_weapon.html" alt="WeaponSystem.AreaWeapon.AreaWeapon" shape="rect" coords="0,112,304,136"/>
+<area href="class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html" alt="WeaponSystem.ProjectileWeapon.ProjectileWeapon" shape="rect" coords="314,112,618,136"/>
+<area href="class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html" alt="WeaponSystem.RayCastWeapons.RayCastWeapon" shape="rect" coords="628,112,932,136"/>
+<area href="class_weapon_system_1_1_area_weapon_1_1_grappling_hook.html" alt="WeaponSystem.AreaWeapon.GrapplingHook" shape="rect" coords="0,168,304,192"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aef1f793611aeff581b0a01715d632a62"><td class="memItemLeft" align="right" valign="top">RaycastHit&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#aef1f793611aeff581b0a01715d632a62">GetRay</a> (Vector3 direction)</td></tr>
-<tr class="separator:aef1f793611aeff581b0a01715d632a62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62fcdadc1656d6360eb7d80d91c1fb9b"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a62fcdadc1656d6360eb7d80d91c1fb9b">GetID</a> ()</td></tr>
 <tr class="memdesc:a62fcdadc1656d6360eb7d80d91c1fb9b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ths Function returns an string with the weapon id value.  <a href="class_weapon_system_1_1_weapon.html#a62fcdadc1656d6360eb7d80d91c1fb9b">More...</a><br /></td></tr>
 <tr class="separator:a62fcdadc1656d6360eb7d80d91c1fb9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -125,8 +125,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ac12db48f802e8e8c32dcb3a8d71737df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#ac12db48f802e8e8c32dcb3a8d71737df">ReoladEvent</a> ()</td></tr>
 <tr class="memdesc:ac12db48f802e8e8c32dcb3a8d71737df"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reload event triggered via animation to check the amount of ammo and fills current magazine.  <a href="class_weapon_system_1_1_weapon.html#ac12db48f802e8e8c32dcb3a8d71737df">More...</a><br /></td></tr>
 <tr class="separator:ac12db48f802e8e8c32dcb3a8d71737df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac376cbaa1c31e6beaa2c359f3fd5e8fb"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#ac376cbaa1c31e6beaa2c359f3fd5e8fb">Direction</a> ()</td></tr>
-<tr class="separator:ac376cbaa1c31e6beaa2c359f3fd5e8fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4264305bcaf21de40e55b362d1d8cf2a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a4264305bcaf21de40e55b362d1d8cf2a">PlayShootAnimation</a> ()</td></tr>
 <tr class="memdesc:a4264305bcaf21de40e55b362d1d8cf2a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method that visualize the shoot given the present parameters rendering a trail and or spawning a projectile if given the prefabs.  <a href="class_weapon_system_1_1_weapon.html#a4264305bcaf21de40e55b362d1d8cf2a">More...</a><br /></td></tr>
 <tr class="separator:a4264305bcaf21de40e55b362d1d8cf2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,16 +144,10 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a505f695d9257d4a856818428f55b69d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae54c0e4dff0cb19d245e4d114b57c584"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#ae54c0e4dff0cb19d245e4d114b57c584">curMagazine</a></td></tr>
 <tr class="separator:ae54c0e4dff0cb19d245e4d114b57c584"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a083d1f21a9ae98b43871219918da6cee"><td class="memItemLeft" align="right" valign="top">TrailRenderer&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a083d1f21a9ae98b43871219918da6cee">BulletTrail</a></td></tr>
-<tr class="separator:a083d1f21a9ae98b43871219918da6cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a731b8d9516279119ff64028fbe295336"><td class="memItemLeft" align="right" valign="top">Transform&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a731b8d9516279119ff64028fbe295336">firePoint</a></td></tr>
 <tr class="separator:a731b8d9516279119ff64028fbe295336"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82cdf2416eddaa43cdfee1fcba26613c"><td class="memItemLeft" align="right" valign="top">GameObject&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a82cdf2416eddaa43cdfee1fcba26613c">projectile</a></td></tr>
-<tr class="separator:a82cdf2416eddaa43cdfee1fcba26613c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a36a063c8c8f4baa780f344dfd8de50f0"><td class="memItemLeft" align="right" valign="top">AudioClip&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a36a063c8c8f4baa780f344dfd8de50f0">select</a></td></tr>
 <tr class="separator:a36a063c8c8f4baa780f344dfd8de50f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a089cf0a096006a8fa370b4ea64cb19eb"><td class="memItemLeft" align="right" valign="top">LayerMask&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a089cf0a096006a8fa370b4ea64cb19eb">rayMasks</a></td></tr>
-<tr class="separator:a089cf0a096006a8fa370b4ea64cb19eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57a4f388bc5c6d251f9513e99ac5a9fa"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#a57a4f388bc5c6d251f9513e99ac5a9fa">distance</a></td></tr>
 <tr class="separator:a57a4f388bc5c6d251f9513e99ac5a9fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa396049ce90e11a221931d06277a7c13"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_weapon_system_1_1_weapon.html#aa396049ce90e11a221931d06277a7c13">dmg</a></td></tr>
@@ -185,23 +177,6 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ac376cbaa1c31e6beaa2c359f3fd5e8fb" name="ac376cbaa1c31e6beaa2c359f3fd5e8fb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac376cbaa1c31e6beaa2c359f3fd5e8fb">&#9670;&#160;</a></span>Direction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Vector3 WeaponSystem.Weapon.Direction </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a62fcdadc1656d6360eb7d80d91c1fb9b" name="a62fcdadc1656d6360eb7d80d91c1fb9b"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a62fcdadc1656d6360eb7d80d91c1fb9b">&#9670;&#160;</a></span>GetID()</h2>
 
@@ -219,24 +194,6 @@ Public Attributes</h2></td></tr>
 
 <p>Ths Function returns an string with the weapon id value. </p>
 <dl class="section return"><dt>Returns</dt><dd><a class="el" href="class_weapon_system_1_1_weapon.html">Weapon</a> ID </dd></dl>
-
-</div>
-</div>
-<a id="aef1f793611aeff581b0a01715d632a62" name="aef1f793611aeff581b0a01715d632a62"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef1f793611aeff581b0a01715d632a62">&#9670;&#160;</a></span>GetRay()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">RaycastHit WeaponSystem.Weapon.GetRay </td>
-          <td>(</td>
-          <td class="paramtype">Vector3&#160;</td>
-          <td class="paramname"><em>direction</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -322,25 +279,11 @@ Public Attributes</h2></td></tr>
 
 <p>This Virtual Method handels the shooting for all weapons and can be overrided. </p>
 
-<p>Reimplemented in <a class="el" href="class_weapon_system_1_1_weapons_1_1_grappling_hook.html#a50e3aa1be962cd0680a106776bfb49db">WeaponSystem.Weapons.GrapplingHook</a>, and <a class="el" href="class_weapon_system_1_1_weapons_1_1_sound_shotgun.html#acce1494b8d0faabbfbcb9aaa09fe1bc4">WeaponSystem.Weapons.SoundShotgun</a>.</p>
+<p>Reimplemented in <a class="el" href="class_weapon_system_1_1_area_weapon_1_1_area_weapon.html#a7e6678e2e61b5d1c031144a79c71a5db">WeaponSystem.AreaWeapon.AreaWeapon</a>, <a class="el" href="class_weapon_system_1_1_area_weapon_1_1_grappling_hook.html#a9fb8f9cd2c290bd1f0659ee96aeb5313">WeaponSystem.AreaWeapon.GrapplingHook</a>, <a class="el" href="class_weapon_system_1_1_projectile_weapon_1_1_projectile_weapon.html#a3c53d21cd574932279efe10c050c2607">WeaponSystem.ProjectileWeapon.ProjectileWeapon</a>, and <a class="el" href="class_weapon_system_1_1_ray_cast_weapons_1_1_ray_cast_weapon.html#a703a0c244a4fd45ec95cb7d941cd37aa">WeaponSystem.RayCastWeapons.RayCastWeapon</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a083d1f21a9ae98b43871219918da6cee" name="a083d1f21a9ae98b43871219918da6cee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a083d1f21a9ae98b43871219918da6cee">&#9670;&#160;</a></span>BulletTrail</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TrailRenderer WeaponSystem.Weapon.BulletTrail</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a505f695d9257d4a856818428f55b69d2" name="a505f695d9257d4a856818428f55b69d2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a505f695d9257d4a856818428f55b69d2">&#9670;&#160;</a></span>curAmmo</h2>
 
@@ -453,34 +396,6 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a82cdf2416eddaa43cdfee1fcba26613c" name="a82cdf2416eddaa43cdfee1fcba26613c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a82cdf2416eddaa43cdfee1fcba26613c">&#9670;&#160;</a></span>projectile</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">GameObject WeaponSystem.Weapon.projectile</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a089cf0a096006a8fa370b4ea64cb19eb" name="a089cf0a096006a8fa370b4ea64cb19eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a089cf0a096006a8fa370b4ea64cb19eb">&#9670;&#160;</a></span>rayMasks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">LayerMask WeaponSystem.Weapon.rayMasks</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="aedbac0bc8c6b81d6ede41e64b2332b50" name="aedbac0bc8c6b81d6ede41e64b2332b50"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aedbac0bc8c6b81d6ede41e64b2332b50">&#9670;&#160;</a></span>RayOut</h2>
 
@@ -532,7 +447,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_weapon_system.html">WeaponSystem</a></li><li class="navelem"><a class="el" href="class_weapon_system_1_1_weapon.html">Weapon</a></li>
-    <li class="footer">Generated on Fri Sep 23 2022 13:28:17 for Planet Crash by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Sun Sep 25 2022 19:26:53 for Planet Crash by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
