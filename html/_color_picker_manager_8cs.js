@@ -1,4 +1,4 @@
 var _color_picker_manager_8cs =
 [
-    [ "ColorPickerManager", "class_color_picker_manager.html", "class_color_picker_manager" ]
+    [ "UI.ColorPickerManager", "class_u_i_1_1_color_picker_manager.html", "class_u_i_1_1_color_picker_manager" ]
 ];

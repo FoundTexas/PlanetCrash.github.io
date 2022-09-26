@@ -9,5 +9,7 @@ var dir_f13b41af88cf68434578284aaf699e39 =
     [ "Player", "dir_c7fafc839a0585736011c21bdabf2a37.html", "dir_c7fafc839a0585736011c21bdabf2a37" ],
     [ "Props", "dir_e2570c556df5abd662c21e7307f854b2.html", "dir_e2570c556df5abd662c21e7307f854b2" ],
     [ "UI", "dir_4ae35e2d0d203079e26c83ccaec95743.html", "dir_4ae35e2d0d203079e26c83ccaec95743" ],
-    [ "WeaponSystem", "dir_4c4a3fe1a6138265f232eac21175e410.html", "dir_4c4a3fe1a6138265f232eac21175e410" ]
+    [ "WeaponSystem", "dir_4c4a3fe1a6138265f232eac21175e410.html", "dir_4c4a3fe1a6138265f232eac21175e410" ],
+    [ "GameManager.cs", "_game_manager_8cs.html", "_game_manager_8cs" ],
+    [ "LevelManager.cs", "_level_manager_8cs.html", "_level_manager_8cs" ]
 ];

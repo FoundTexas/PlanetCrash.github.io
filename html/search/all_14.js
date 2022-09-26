@@ -1,9 +1,20 @@
 var searchData=
 [
-  ['v_0',['v',['../class_flexible_color_picker_1_1_advanced_settings.html#a9c074db12a059dd661b8a126632aa763',1,'FlexibleColorPicker::AdvancedSettings']]],
-  ['vacuumenemy_1',['VacuumEnemy',['../class_vacuum_enemy.html',1,'']]],
-  ['vacuumenemy_2ecs_2',['VacuumEnemy.cs',['../_vacuum_enemy_8cs.html',1,'']]],
-  ['values_3',['values',['../class_scene_management.html#a3f245aa836d2676d99aa7725ee73c943',1,'SceneManagement']]],
-  ['values_4',['Values',['../classjsonbools.html#a5af9d73a76490b3f9e0503d96d1d2843',1,'jsonbools']]],
-  ['voxelsize_5',['voxelSize',['../class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a9778fde71edbb4df9fe4fcff3adb6f5f',1,'UnityEngine::AI::NavMeshSurface']]]
+  ['areaweapons_0',['AreaWeapons',['../namespace_weapon_system_1_1_area_weapons.html',1,'WeaponSystem']]],
+  ['projectileweapons_1',['ProjectileWeapons',['../namespace_weapon_system_1_1_projectile_weapons.html',1,'WeaponSystem']]],
+  ['raycastweapons_2',['RayCastWeapons',['../namespace_weapon_system_1_1_ray_cast_weapons.html',1,'WeaponSystem']]],
+  ['walkpoint_3',['walkPoint',['../class_enemy.html#ae5d26e114d56f09eab2455c28bbc6fd1',1,'Enemy']]],
+  ['walkpointrange_4',['walkPointRange',['../class_enemy.html#a57968d22ba4077be9814a26f1a301604',1,'Enemy']]],
+  ['walkpointset_5',['walkPointSet',['../class_enemy.html#a8918012db1ea8b072efae503ae2c7bf1',1,'Enemy']]],
+  ['walldistance_6',['wallDistance',['../class_player_movement3_d.html#a293467e0206cfbc5645346a1fd8902b4',1,'PlayerMovement3D']]],
+  ['walljumpforce_7',['wallJumpForce',['../class_player_movement3_d.html#a1c718ba06a5bd639e910cbf4ea420561',1,'PlayerMovement3D']]],
+  ['walljumpsideforce_8',['wallJumpSideForce',['../class_player_movement3_d.html#ab3a8258b1b2cf113107ec2bd2ff97dbc',1,'PlayerMovement3D']]],
+  ['wallmask_9',['wallMask',['../class_player_movement3_d.html#aca3fbf9be8aab05284f0bfc67995b4cb',1,'PlayerMovement3D']]],
+  ['weapon_10',['Weapon',['../class_weapon_system_1_1_weapon.html',1,'WeaponSystem']]],
+  ['weapon_2ecs_11',['Weapon.cs',['../_weapon_8cs.html',1,'']]],
+  ['weaponmanager_12',['WeaponManager',['../class_weapon_system_1_1_weapon_manager.html',1,'WeaponSystem']]],
+  ['weaponmanager_2ecs_13',['WeaponManager.cs',['../_weapon_manager_8cs.html',1,'']]],
+  ['weaponsystem_14',['WeaponSystem',['../namespace_weapon_system.html',1,'']]],
+  ['weaponunlocker_15',['WeaponUnlocker',['../class_weapon_unlocker.html',1,'']]],
+  ['weaponunlocker_2ecs_16',['WeaponUnlocker.cs',['../_weapon_unlocker_8cs.html',1,'']]]
 ];

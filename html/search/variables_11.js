@@ -1,5 +1,10 @@
 var searchData=
 [
-  ['upforcemax_0',['upForceMax',['../class_destroy_on_click.html#a634589af26a2ae6e6ca5bd4b025896c8',1,'DestroyOnClick.upForceMax()'],['../class_destroy_on_hit.html#a42aaf16ddf563136dc6fbd5013531a5f',1,'DestroyOnHit.upForceMax()'],['../class_explode_barrel.html#ab55744e4db65e4a1e44cb16ce3f70c49',1,'ExplodeBarrel.upForceMax()']]],
-  ['upforcemin_1',['upForceMin',['../class_destroy_on_click.html#aaa9ecd3fa2f2cb809e4d437d55a06a55',1,'DestroyOnClick.upForceMin()'],['../class_destroy_on_hit.html#a0c6af5ce30a8ed1f350ce33861894726',1,'DestroyOnHit.upForceMin()'],['../class_explode_barrel.html#abc666b6603202705e496579bde9d23e1',1,'ExplodeBarrel.upForceMin()']]]
+  ['walkpoint_0',['walkPoint',['../class_enemy.html#ae5d26e114d56f09eab2455c28bbc6fd1',1,'Enemy']]],
+  ['walkpointrange_1',['walkPointRange',['../class_enemy.html#a57968d22ba4077be9814a26f1a301604',1,'Enemy']]],
+  ['walkpointset_2',['walkPointSet',['../class_enemy.html#a8918012db1ea8b072efae503ae2c7bf1',1,'Enemy']]],
+  ['walldistance_3',['wallDistance',['../class_player_movement3_d.html#a293467e0206cfbc5645346a1fd8902b4',1,'PlayerMovement3D']]],
+  ['walljumpforce_4',['wallJumpForce',['../class_player_movement3_d.html#a1c718ba06a5bd639e910cbf4ea420561',1,'PlayerMovement3D']]],
+  ['walljumpsideforce_5',['wallJumpSideForce',['../class_player_movement3_d.html#ab3a8258b1b2cf113107ec2bd2ff97dbc',1,'PlayerMovement3D']]],
+  ['wallmask_6',['wallMask',['../class_player_movement3_d.html#aca3fbf9be8aab05284f0bfc67995b4cb',1,'PlayerMovement3D']]]
 ];

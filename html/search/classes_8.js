@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['idamage_0',['IDamage',['../interface_i_damage.html',1,'']]]
+  ['jsonbools_0',['jsonbools',['../classjsonbools.html',1,'']]]
 ];

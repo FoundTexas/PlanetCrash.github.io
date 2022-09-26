@@ -26,39 +26,28 @@ var NAVTREE =
 [
   [ "Planet Crash", "index.html", [
     [ "Packages", "namespaces.html", [
-      [ "Package List", "namespaces.html", "namespaces_dup" ],
-      [ "Package Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ]
-      ] ]
+      [ "Package List", "namespaces.html", "namespaces_dup" ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
+        [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Properties", "functions_prop.html", null ]
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Macros", "globals_defs.html", null ]
-      ] ]
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_ammo_display_8cs.html",
-"class_melee_attack.html#a77e6f69e7038cc3a8d3415acebf8000b",
-"class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#ab172d2aeaa1fc33361ec519b34e30bda"
+"_area_weapon_8cs.html",
+"class_u_i_1_1_settings_menu.html#a41eeddfeab883cb5cd1eb40e169992d9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
